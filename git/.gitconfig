@@ -1,0 +1,16 @@
+[user]
+	name = Gusesa Abida Ghifar
+	email = abidaghifar@gmail.com
+	signingkey = EADB338B9079E370
+[commit]
+	gpgsign = true
+[alias]
+	graph = log --graph --oneline --decorate
+[sendemail]
+	smtpPass = pojp lrva ouna gomt
+	smtpserver = smtp.gmail.com
+        smtpuser = abidaghifar@gmail.com
+        smtpencryption = tls
+        smtpserverport = 587
+[credential]
+	helper = cache
